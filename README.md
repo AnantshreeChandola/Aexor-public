@@ -57,6 +57,16 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 
 ---
 
+## Security & Reliability
+
+- **Prompt injection defence** — two-tier LLM architecture ensures untrusted external data is sanitized in a sandboxed tier before it ever reaches agent reasoning
+- **Append-only audit trail** — every plan, execution, and approval event is recorded for full traceability
+- **Observability** — structured logging and execution monitoring with stuck-detection and timeout enforcement
+- **Credential isolation** — AES-256-GCM encrypted vault; LLM never sees plaintext secrets
+- **Human-in-the-loop** — critical actions always require explicit user approval before execution
+
+---
+
 ## Tech Stack
 
 | Category | Technology |
