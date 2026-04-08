@@ -24,7 +24,7 @@ Aexor is a personal AI assistant that produces immutable plan DAGs where LLM Rea
   </a>
 </p>
 
-> *"Book me a flight to Tokyo next Friday"* — watch Aexor plan, preview, and execute an end-to-end use case.
+> *"Schedule a meeting and send a Gmail notification"* — watch Aexor plan, preview, and execute an end-to-end use case.
 
 ---
 
@@ -69,8 +69,3 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 | Embeddings | ONNX Runtime (local CPU inference) |
 | Tools | MCP protocol |
 
----
-
-## License
-
-MIT
