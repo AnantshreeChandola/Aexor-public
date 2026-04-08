@@ -15,6 +15,19 @@ Aexor is a personal AI assistant that produces immutable plan DAGs where LLM Rea
 
 ---
 
+## Demo
+
+<!-- Replace the thumbnail and link below once the video is uploaded -->
+<p align="center">
+  <a href="https://youtu.be/REPLACE_WITH_VIDEO_ID">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-Aexor_in_Action-blue?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
+
+> *"Book me a flight to Tokyo next Friday"* — watch Aexor plan, preview, and execute an end-to-end use case.
+
+---
+
 ## How It Works
 
 ```
