@@ -19,7 +19,7 @@ Aexor is a personal AI assistant that produces immutable plan DAGs where LLM Rea
 
 <p align="center">
   <a href="https://www.loom.com/share/8bfadf98c7634be29dba70eae6e4a512">
-    <img src="https://cdn.loom.com/sessions/thumbnails/8bfadf98c7634be29dba70eae6e4a512-with-play.gif" alt="Aexor Demo" width="600">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-Schedule_Meeting_+_Gmail-blue?style=for-the-badge&logo=loom&logoColor=white" alt="Watch Demo on Loom">
   </a>
 </p>
 
