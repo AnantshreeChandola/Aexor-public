@@ -78,6 +78,6 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 | AI/LLM | Anthropic Claude (local model support in progress) |
 | RAG | Context engineering with tiered evidence gathering |
 | Prompt Engineering | Structured prompts, two-tier trust model |
-| Embeddings | ONNX Runtime (local CPU inference) |
+| Embeddings | ONNX Runtime (local CPU inference) via ContextRAG |
 | Tools | MCP protocol via Composio |
 
