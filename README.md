@@ -74,7 +74,7 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 | Backend | Python 3.11+, FastAPI, Pydantic v2 |
 | Database | PostgreSQL 16 + pgvector |
 | Cache | Redis 7 with hiredis |
-| AI/LLM | Anthropic Claude |
+| AI/LLM | Anthropic Claude (local model support in progress) |
 | Embeddings | ONNX Runtime (local CPU inference) |
-| Tools | MCP protocol |
+| Tools | MCP protocol via Composio |
 
