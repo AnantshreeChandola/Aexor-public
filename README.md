@@ -72,9 +72,12 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 | Category | Technology |
 |----------|-----------|
 | Backend | Python 3.11+, FastAPI, Pydantic v2 |
-| Database | PostgreSQL 16 + pgvector |
+| Database | PostgreSQL 16 |
+| Vector DB | pgvector (hybrid BM25 + semantic search) |
 | Cache | Redis 7 with hiredis |
 | AI/LLM | Anthropic Claude (local model support in progress) |
+| RAG | Context engineering with tiered evidence gathering |
+| Prompt Engineering | Structured prompts, two-tier trust model |
 | Embeddings | ONNX Runtime (local CPU inference) |
 | Tools | MCP protocol via Composio |
 
