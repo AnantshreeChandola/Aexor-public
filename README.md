@@ -76,7 +76,7 @@ User Request → Understand → Plan → Preview → Approve → Execute → Lea
 | Vector DB | pgvector (hybrid BM25 + semantic search) |
 | Cache | Redis 7 with hiredis |
 | AI/LLM | Anthropic Claude (local model support in progress) |
-| RAG | Context engineering with tiered evidence gathering |
+| Context Engineering | Tiered evidence gathering, plan embeddings, ContextRAG |
 | Prompt Engineering | Structured prompts, two-tier trust model |
 | Embeddings | ONNX Runtime (local CPU inference) via ContextRAG |
 | Tools | MCP protocol via Composio |
