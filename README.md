@@ -8,7 +8,7 @@
   <strong>Preview-first personal assistant with deterministic planning and adaptive execution</strong>
 </p>
 
-**Status:** Under active development
+**Status:** Backend complete — currently designing and refining the UI
 **Deployment:** Self-hosted, single-tenant, multi-user
 
 Aexor is a personal AI assistant that produces immutable plan DAGs where LLM Reasoner steps can spawn bounded new steps at runtime, creating versioned revisions with policy attestations. All execution runs through a pure Python/FastAPI runtime with MCP tool invocations.
