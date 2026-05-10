@@ -14,16 +14,6 @@ Aexor is a self-hosted, multi-agent runtime — single-tenant, multi-user. Previ
 
 ---
 
-## Demo
-
-<p align="center">
-  <a href="https://www.loom.com/share/8bfadf98c7634be29dba70eae6e4a512">
-    <img src="https://img.shields.io/badge/▶_Watch_Demo-Schedule_Meeting_+_Gmail-blue?style=for-the-badge&logo=loom&logoColor=white" alt="Watch Demo on Loom">
-  </a>
-</p>
-
-> *"Schedule a meeting and send a Gmail notification"* — watch Aexor plan, preview, and execute an end-to-end use case.
-
 ---
 
 ## How It Works
