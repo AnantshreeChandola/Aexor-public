@@ -16,6 +16,16 @@ Aexor is a self-hosted, multi-agent runtime — single-tenant, multi-user. Previ
 
 ---
 
+## Demo
+
+### Daily Standup Digest
+
+[![Daily Standup Digest Demo](https://drive.google.com/thumbnail?id=1Yy97hetiENJKVPU3dF7dyy2YyFS_6zCp&sz=w1280)](https://drive.google.com/file/d/1Yy97hetiENJKVPU3dF7dyy2YyFS_6zCp/view?usp=sharing)
+
+> Click the image above to watch the demo video.
+
+---
+
 ## How It Works
 
 ```
