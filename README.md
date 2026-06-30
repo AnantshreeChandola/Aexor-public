@@ -5,12 +5,12 @@
 <h1 align="center">Aexor</h1>
 
 <p align="center">
-  <strong>Preview-first self-hosted multi-agent runtime with deterministic planning and adaptive execution</strong>
+  <strong>Preview-first self-hosted multi-agent runtime with adaptive execution</strong>
 </p>
 
 **Deployment:** Self-hosted, single-tenant, multi-user
 
-Aexor is a self-hosted, multi-agent runtime — single-tenant, multi-user. Preview-first execution with deterministic plans and adaptive runtime; policy-gated writes with full audit trail; two-tier trust boundary against prompt injection; memory-augmented planning via preferences and reusable history.
+Aexor is a self-hosted, multi-agent runtime — single-tenant, multi-user. Preview-first execution with adaptive runtime; policy-gated writes with full audit trail; two-tier trust boundary against prompt injection; memory-augmented planning via preferences and reusable history.
 
 ---
 
