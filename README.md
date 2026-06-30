@@ -12,6 +12,8 @@
 
 Aexor is a self-hosted, multi-agent runtime — single-tenant, multi-user. Preview-first execution with adaptive runtime; policy-gated writes with full audit trail; two-tier trust boundary against prompt injection; memory-augmented planning via preferences and reusable history.
 
+Codebase: https://github.com/AnantshreeChandola/Aexor
+
 ---
 
 ---
